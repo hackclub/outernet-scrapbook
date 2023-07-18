@@ -9,3 +9,9 @@ npx prisma db push
 node 
 docker-compose up -d # it will be on port 8096
 ```
+
+### CLI Commands
+
+`node lsuser` - Lists all users and how many posts each user made
+`node createuser [username]` - Creates a user
+`node deluser [username]`- Deletes a user
