@@ -1,0 +1,14 @@
+.next
+.vercel
+node_modules
+.DS_Store
+.env
+package-lock.json
+public/files
+yarn-error.log
+public/fetchme.js
+public/users
+*.db
+prisma/*.db
+users1/
+logfile
