@@ -16,4 +16,4 @@ docker-compose up -d # it will be on port 8096
 
 `node createuser [username]` - Creates a user
 
-`node deluser [username]`- Deletes a user
+`node rmuser [username]`- Deletes a user
