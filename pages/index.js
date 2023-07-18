@@ -13,7 +13,7 @@ const Header = ({ status, children }) => {
     <>
       <Meta
         as={Head}
-        name="Hacker Zephyr Chronicles"
+        name="Outernet Scrapbook"
         title="Home"
         description="The stories that made up an adventure of a lifetime."
         image="https://slack-oauth-starter-test-xy120.hackclub.dev/meta.png"

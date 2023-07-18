@@ -6,7 +6,7 @@ const Nav = () => {
       <div className="title-bar" style={{ padding: '4px 12px' }}>
         <Link href="/">
           <div className="title-bar-text" style={{ cursor: 'pointer' }}>
-            the_zephyr_chronicles.exe
+            The Outernet ScrapBook
           </div>
         </Link>
         <div className="title-bar-controls">

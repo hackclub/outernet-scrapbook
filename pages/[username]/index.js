@@ -34,9 +34,9 @@ const Profile = ({
   >
     <Meta
       as={Head}
-      name="the Hacker Zephyr Chronicles"
+      name="the Outernet Scrapbook"
       title={`@${profile.name}`}
-      description={`Follow along with @${profile.name}’s journey on the Hacker Zephyr.`}
+      description={`Follow along with @${profile.name}’s journey at Outernet`}
       image={profile.profilePicture}
     />
     {profile.cssURL && (
