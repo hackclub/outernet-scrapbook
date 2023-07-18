@@ -1,4 +1,4 @@
-# the_zephyr_chronicles.exe
+# the outernet scrapbook
 
 Forked from [hackclub/the-zephyr-chronicles](https://github.com/hackclub/the-zephyr-chronicles/tree/main)
 
