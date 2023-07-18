@@ -79,7 +79,7 @@ export default function New({ users }) {
       <div class="window" style={{margin: '32px'}}>
         <div class="title-bar">
           <div class="title-bar-text">
-            Contribute to the Chronicles
+            Contribute to the Scrapbook
           </div>
           <div class="title-bar-controls">
             <button aria-label="Minimize"></button>
