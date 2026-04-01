@@ -23,7 +23,7 @@
     "formidable-serverless": "^1.1.1",
     "lodash": "^4.17.21",
     "multiparty": "^4.2.2",
-    "next": "^11.0.1",
+    "next": "^15.5.14",
     "next-boost": "^0.10.2",
     "nookies": "^2.5.2",
     "nprogress": "^0.2.0",
